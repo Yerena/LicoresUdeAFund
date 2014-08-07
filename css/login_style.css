@@ -1,0 +1,7 @@
+.nom{
+	text-align: center;
+}
+p#error{
+	text-align: center;
+	color: red;
+}

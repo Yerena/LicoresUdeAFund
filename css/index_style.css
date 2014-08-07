@@ -1,0 +1,33 @@
+#menu{
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+#menu {
+ background: #202020;
+ width: 1238px;
+ float:left;
+ padding: 15px;
+}
+   
+#menu li {
+ color: #fff;
+ float: left;
+ list-style: none;
+ margin: 0% 9.8%;
+	
+}
+
+#menu li:hover{
+ color: #00CCFF;
+ cursor:pointer;
+}
+
+A:link {text-decoration:none;color:#fff;} 
+
+A:visited {text-decoration:none;color:#fff;} 
+
+A:active {text-decoration:none;color:#fff;} 
+
+A:hover {text-decoration:none;color:#00CCFF;} 
+
