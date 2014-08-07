@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Tienda Virtual Empresita S.A.</title>
+		<title>Licores UdeA</title>
 	</head>
 	<body>
 		<?php

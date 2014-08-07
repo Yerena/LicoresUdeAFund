@@ -2,6 +2,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="stylesheet" href="css/acordeon_style.css"/>
+        <title>Vinos y Creams</title>
 	</head>
 	<body>
  <?php
