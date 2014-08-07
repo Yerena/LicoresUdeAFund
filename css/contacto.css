@@ -14,6 +14,7 @@
     resize: none;
     box-shadow:0 0 0 3px #EEF5F7;
     margin: 5px 0;
+    text-shadow: white;
 }
 .contacto input[type='text']:focus, .contacto textarea:focus{
     outline: none;

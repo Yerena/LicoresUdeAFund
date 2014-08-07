@@ -5,11 +5,14 @@
 		
     </head>
     <body>
+        <body background="img/background.jpg">
+
+
 	<?php
 		include 'header.php';
 		?>
-        <form class='contacto' align="center">
-            <div><label>Tu Nombre:</label><input type='text' value=''></div>
+        <form class='contacto' align="center" style="color:#FFFFFF">
+            <div><label>Tu Nombre:</label><input type='text' value='' ></div>
             <div><label>Tu Email:</label><input type='text' value=''></div>
             <div><label>Asunto:</label><input type='text' value=''></div>
             <div><label>Mensaje:</label><textarea rows='6'></textarea></div>

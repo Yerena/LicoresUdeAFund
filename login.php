@@ -64,7 +64,7 @@ function muestraVentana() {
   <div id="ventanaPopup1" >
     <a id="ventanaPopup1Cerrar">x</a>
     	
-	<form action="main.php" method="post" class="login">
+	<form action="index.php" method="post" class="login">
 		<p>Nickname: <input name = "nombre" type="text" id="nombre"  /></p>
 		<p >Password: <input name = "pass" type="password"id="pass" /></p>
 		<p class="login-submit"><button name = "Enviar" value="Ingresar" type="submit"  class="login-button"/>Login</button>
